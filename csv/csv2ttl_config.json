@@ -1,0 +1,66 @@
+{
+    "id": "2012MaSek2",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Mathematik Sek II 2012"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v55",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Die allgemeinen mathematischen Kompetenzen"
+          }
+        ],
+        "filenameSource": "k1_Allgemeinen_Kompetenzen.csv",
+        "filenameTarget": "k1_Allgemeinen_Kompetenzen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"In den Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife werden sechs allgemeine mathematische Kompetenzen unterschieden, die das Spektrum mathematischen Arbeitens in der Sekundarstufe II in hinreichender Breite erfassen. Dabei ist es weder möglich noch beabsichtigt, diese Kompetenzen scharf voneinander abzugrenzen. Es ist vielmehr typisch für mathematisches Arbeiten, dass mehrere Kompetenzen im Verbund benötigt werden. Dies trifft auch auf die Aufgabenbeispiele zu.\n\nIm Folgenden werden die sechs allgemeinen mathematischen Kompetenzen näher beschrieben, insbesondere auch durch ihre jeweiligen Ausprägungen in den drei Anforderungsbereichen. Wie in Textfassung 1.2 betont, sind diese Kompetenzen immer untrennbar mit den – in den Leitideen konkretisierten – mathematischen Inhalten verbunden.\"\""
+          }
+        ]
+      },
+      {
+        "id": "l1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Die mathematischen Leitideen"
+          }
+        ],
+        "filenameSource": "l1_Die_mathematischen_Leitideen.csv",
+        "filenameTarget": "l1_Die_mathematischen_Leitideen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Die Bewältigung mathematischer Problemsituationen erfordert das permanente Zusammenspiel von prozess- und inhaltsbezogenen Kompetenzen. Insofern sind die folgenden – in der Sekundarstufe II verbindlichen – Inhalte immer im Kontext allgemeiner mathematischer Kompetenzen und deren Anforderungsbereichen zu sehen. Unter „Inhalten“ werden dabei insbesondere auch adäquate Grundvorstellungen verstanden, die ein Verständnis dieser Inhalte erst konstituieren. Die inhaltsbezogenen Kompetenzen werden jeweils übergreifenden Leitideen zugeordnet, die nicht auf bestimmte klassische mathematische Sachgebiete (Analysis, Lineare Algebra/Analytische Geometrie, Stochastik) begrenzt sind. Die Leitideen tragen damit zur Vernetzung dieser traditionellen klassischen Sachgebiete bei.\n\nBei allen Leitideen wird zuerst ein inhaltlicher Kernbereich beschrieben, der das grundlegende Anforderungsniveau charakterisiert. Danach werden die zusätzlichen Inhalte für das erhöhte Anforderungsniveau aufgeführt.\n\nInnerhalb der Leitideen können die Länder den Schwerpunkt alternativ auf die Beschreibung mathematischer Prozesse durch Matrizen (Alternative A1) oder die vektorielle Analytische Geometrie (Alternative A2) setzen.\n\nEbenso können die Länder den Schwerpunkt auf die Schätzung von Parametern (Alternative B1) oder auf die Testung von Hypothesen (Alternative B2) setzen.\"\""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Die Prüfungsaufgabe ist so zu stellen, dass sie Leistungen in den folgenden drei Anforderungsbereichen erfordert:"
+          }
+        ]
+      }
+    ]
+  }

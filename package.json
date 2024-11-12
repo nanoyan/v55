@@ -1,0 +1,22 @@
+{
+  "name": "v55",
+  "version": "0.1.0",
+  "description": "Bildungsstandards Mathematik Sek II 2012 ",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v55.git"
+  },
+  "author": "IQB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v55/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v545#readme",
+  "devDependencies": {
+    "@iqb/csv2ttl": "^0.8.2"
+  }
+}
