@@ -1,10 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches:
-      - csv/*
-  pull_request:
-    branches:
+    paths:
       - csv/*
 
 name: Run and deploy
