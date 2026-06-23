@@ -24,6 +24,12 @@ n0:c2p
 	skos:topConceptOf n0:;
 	skos:prefLabel "Anforderungsbereich III"@de; 
 	skos:definition "umfasst das Verarbeiten komplexer Sachverhalte mit dem Ziel, zu selbstständigen Lösungen, Gestaltungen oder Deutungen, Folgerungen, Verallgemeinerungen, Begründungen und Wertungen zu gelangen. Dabei wählen die Schülerinnen und Schüler selbstständig geeignete Arbeitstechniken und Verfahren zur Bewältigung der Aufgabe, wenden sie auf eine neue Problemstellung an und reflektieren das eigene Vorgehen"@de.
+n0:b9a
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IV"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -32,4 +38,5 @@ n0:
 	skos:hasTopConcept
 		n0:a5p,
 		n0:c7x,
-		n0:c2p.
+		n0:c2p,
+		n0:b9a.
